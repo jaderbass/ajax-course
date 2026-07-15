@@ -1,0 +1,10 @@
+{
+  "course": "AJAX & jQuery",
+  "day": 2,
+  "topic": "Utility-Funktionen",
+  "items": [
+    { "id": 1, "title": "ajaxGet(url, callback)" },
+    { "id": 2, "title": "Statuscodes prüfen" },
+    { "id": 3, "title": "JSON parse + render" }
+  ]
+}
